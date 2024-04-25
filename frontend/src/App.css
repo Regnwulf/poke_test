@@ -1,0 +1,61 @@
+.App {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.loading {
+  font-style: italic;
+  color: #888;
+}
+
+.error {
+  color: #dc3545;
+}
+
+.PokemonInfo {
+  margin-top: 20px;
+}
+
+.PokemonName {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-transform: capitalize;
+}
+
+.Abilities {
+  margin-top: 10px;
+  list-style-type: none;
+  padding: 0;
+  text-transform: capitalize;
+}
+
+.Ability {
+  margin-bottom: 5px;
+}

@@ -1,6 +1,7 @@
-# Loans and Payments API
+# Pokémon's Abilities API
 
 This is a RESTful API built with Node.js and Express to get pokemon's abilities by pokemon name.
+Also a frontend app built in React.js.
 
 ## Features
 
